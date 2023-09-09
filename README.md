@@ -1,5 +1,17 @@
 # EasyDialogs for Windows version 46691.0
 
+This is a slightly cleaned up version on Jimmy Retzlaff's
+EasyDialogs for Microsoft Windows, from http://www.averdevelopment.com/python/EasyDialogs.html
+
+Also checkout:
+
+  * https://hg.sr.ht/~clach04/easydialogs-empty
+  * https://hg.sr.ht/~clach04/easydialogs-android
+  * https://hg.sr.ht/~clach04/easydialogs-kivy
+  * http://code.google.com/p/easydialogs-gtk/
+
+------
+
 EasyDialogs for Windows is a ctypes based emulation of the EasyDialogs module
 included in the Python distribution for Macintosh. It attempts to be as
 compatible as possible. Code using the Macintosh EasyDialogs module can often
