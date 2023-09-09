@@ -1,5 +1,9 @@
 # EasyDialogs for Windows version 46691.0
 
+Python 2.x ONLY.
+
+NOTE Window title issues with Python 2.7 64-bit under Microsoft Windows 10.
+
 This is a slightly cleaned up version on Jimmy Retzlaff's
 EasyDialogs for Microsoft Windows, from http://www.averdevelopment.com/python/EasyDialogs.html
 
@@ -9,6 +13,11 @@ Also checkout:
   * https://hg.sr.ht/~clach04/easydialogs-android
   * https://hg.sr.ht/~clach04/easydialogs-kivy
   * http://code.google.com/p/easydialogs-gtk/
+
+For a quick demo issue:
+
+    python2 -m EasyDialogs
+    python2 EasyDialogs\__init__.py
 
 ------
 
