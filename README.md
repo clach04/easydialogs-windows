@@ -65,10 +65,12 @@ clientName, dialogOptionFlags, eventProc, filterProc,
 multiple, popupExtension, preferenceKey, version, wanted
 
 ## Prerequisites
+
 EasyDialogs for Windows requires a 32-bit version of Windows, Python 2.3, and
 ctypes 0.6.3 or newer.
 
 Example usage:
+
     import EasyDialogs
 
     EasyDialogs .Message("Testing EasyDialogs.") # displays a message box
