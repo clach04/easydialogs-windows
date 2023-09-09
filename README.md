@@ -21,7 +21,7 @@ allows the same test to run as a single file executable that is just under
 
 Documentation for the Macintosh version can be found at:
 
-http://www.python.org/doc/current/mac/module-EasyDialogs.html
+https://python.readthedocs.io/en/v2.7.2/library/easydialogs.html
 
 That documentation is also included in the standard distributions of Python
 for Windows and it can be used for this Windows version of EasyDialogs as
