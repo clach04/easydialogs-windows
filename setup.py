@@ -23,7 +23,7 @@ setup(name='EasyDialogs for Windows',
       long_description='Makes it easy to display simple dialogs on Windows',
       platforms='Windows',
       packages=['EasyDialogs'],
-      package_dir={'EasyDialogs' : ''},
+      package_dir={'EasyDialogs' : 'EasyDialogs'},
       data_files=[('EasyDialogs', [
                         'license.txt',
                         'EasyDialogsResources.rc',
