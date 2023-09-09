@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: EasyDialogs for Windows
+Version: 46691.0
+Summary: EasyDialogs for Windows
+Home-page: http://www.averdevelopment.com/python
+Author: Jimmy Retzlaff
+Author-email: jimmy@retzlaff.com
+License: MIT
+Description: Makes it easy to display simple dialogs on Windows
+Platform: Windows
