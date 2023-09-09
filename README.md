@@ -27,7 +27,7 @@ That documentation is also included in the standard distributions of Python
 for Windows and it can be used for this Windows version of EasyDialogs as
 well. Known differences include:
 
-## AskFileForOpen
+### AskFileForOpen
 
 typeList is used for the same purpose, but file type handling is different
 between Windows and Macintosh, so the form of this argument is different.
@@ -43,7 +43,7 @@ The following parameters are ignored on Windows:
 clientName, dialogOptionFlags, eventProc, filterProc, multiple,
 popupExtension, preferenceKey, previewProc, version, wanted
 
-## AskFileForSave
+### AskFileForSave
 
 fileType is used for the same purpose, but file type handling is different
 between Windows and Macintosh, so the form of this argument is different.
@@ -58,7 +58,7 @@ The following parameters are ignored on Windows:
 clientName, dialogOptionFlags, eventProc, fileCreator, filterProc,
 multiple, popupExtension, preferenceKey, previewProc, version, wanted
 
-## AskFolder
+### AskFolder
 
 The following parameters are ignored on Windows:
 clientName, dialogOptionFlags, eventProc, filterProc,
