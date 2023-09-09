@@ -29,7 +29,7 @@ setup(name='EasyDialogs for Windows',
                         'EasyDialogsResources.rc',
                         'resource.h',
                         'changes.txt',
-                        'readme.txt',
+                        'README.md',
                         'manifest.in',
                        ]
                   )
