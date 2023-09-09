@@ -1,4 +1,4 @@
-EasyDialogs for Windows version 1.16.0
+EasyDialogs for Windows version 46691.0
 
 EasyDialogs for Windows is a ctypes based emulation of the EasyDialogs module
 included in the Python distribution for Macintosh. It attempts to be as
